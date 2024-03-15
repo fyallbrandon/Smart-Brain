@@ -1,3 +1,5 @@
+<img width="1280" alt="Screen Shot 2024-03-14 at 6 09 26 PM" src="https://github.com/fyallbrandon/Smart-Brain/assets/156007704/16a5008f-7b8c-4801-a8c3-f6720e3e4d57">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
